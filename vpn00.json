@@ -47,15 +47,7 @@
     "static_ips": {
       "sky.rethinkdns.com": [
         "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir",
-        "zula.ir"
+        
       ]
     },
     "independent_cache": true
